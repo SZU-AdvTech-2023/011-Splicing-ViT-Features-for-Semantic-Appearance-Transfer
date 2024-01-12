@@ -1,0 +1,7 @@
+@inproceedings{REPO011,
+    author = "Tumanyan, Narek and Bar-Tal, Omer and Bagon, Shai and Dekel, Tali",
+    booktitle = "Proc. IEEE/CVF Conf. on Computer Vision \\& Pattern Recognition",
+    pages = "10748--10757",
+    title = "{Splicing ViT Features for Semantic Appearance Transfer}",
+    year = "2022"
+}
